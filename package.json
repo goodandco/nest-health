@@ -1,6 +1,6 @@
 {
   "name": "@goodandco/nest-health",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Health package based for NestJS app based on @nestjs/terminus package",
   "author": "Oleksandr Hudenko <oleksandr.hudenko@gmail.com>",
   "license": "MIT",
